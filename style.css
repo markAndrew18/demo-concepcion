@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: whitesmoke,
+    background-color: #eef2f7;
     color: #1e293b;
     margin: 0;
     padding: 20px;
@@ -35,8 +35,4 @@ hr {
 h2 {
     font-size: 18px;
     margin: 20px 0 0;
-}
-
-button {
-    border: 2px solid black;
 }
